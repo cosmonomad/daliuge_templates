@@ -64,4 +64,4 @@ class MyDataDROP(AbstractDROP):
 
     @property
     def dataURL(self):
-        return f"Hello from the dataURL method"
+        return f"Hello from the {dataURL} method"
